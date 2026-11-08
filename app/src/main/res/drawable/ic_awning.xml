@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="360dp"
+    android:height="31dp"
+    android:viewportWidth="360"
+    android:viewportHeight="31">
+    <path
+        android:fillColor="@color/awning_red"
+        android:pathData="M0,0 H30 V16 A15,15 0 0 1 0,16 Z" />
+    <path
+        android:fillColor="@color/awning_alt"
+        android:pathData="M30,0 H60 V16 A15,15 0 0 1 30,16 Z" />
+    <path
+        android:fillColor="@color/awning_red"
+        android:pathData="M60,0 H90 V16 A15,15 0 0 1 60,16 Z" />
+    <path
+        android:fillColor="@color/awning_alt"
+        android:pathData="M90,0 H120 V16 A15,15 0 0 1 90,16 Z" />
+    <path
+        android:fillColor="@color/awning_red"
+        android:pathData="M120,0 H150 V16 A15,15 0 0 1 120,16 Z" />
+    <path
+        android:fillColor="@color/awning_alt"
+        android:pathData="M150,0 H180 V16 A15,15 0 0 1 150,16 Z" />
+    <path
+        android:fillColor="@color/awning_red"
+        android:pathData="M180,0 H210 V16 A15,15 0 0 1 180,16 Z" />
+    <path
+        android:fillColor="@color/awning_alt"
+        android:pathData="M210,0 H240 V16 A15,15 0 0 1 210,16 Z" />
+    <path
+        android:fillColor="@color/awning_red"
+        android:pathData="M240,0 H270 V16 A15,15 0 0 1 240,16 Z" />
+    <path
+        android:fillColor="@color/awning_alt"
+        android:pathData="M270,0 H300 V16 A15,15 0 0 1 270,16 Z" />
+    <path
+        android:fillColor="@color/awning_red"
+        android:pathData="M300,0 H330 V16 A15,15 0 0 1 300,16 Z" />
+    <path
+        android:fillColor="@color/awning_alt"
+        android:pathData="M330,0 H360 V16 A15,15 0 0 1 330,16 Z" />
+</vector>
